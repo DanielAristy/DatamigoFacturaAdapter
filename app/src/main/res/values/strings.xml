@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DatamigoApp</string>
+    <string name="facturas_recientes">Facturas Recientes</string>
+    <string name="buscar">Buscar...</string>
+    <string name="detalles">Detalles</string>
+    <string name="registrar">Registrar</string>
+    <string name="fecha">Fecha</string>
+    <string name="valor">Valor Factura</string>
+    <string name="nit_proveedor">Nit Proveedor</string>
+    <string name="ingresar_datos">Ingresar Datos</string>
+    <string name="seleccionar_imagen">Seleccionar Imagen</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="imagen_factura">Imagen Factura</string>
+    <string name="registro_factura">Registro de Factura</string>
+    <string name="requerido">Requerido</string>
+</resources>
